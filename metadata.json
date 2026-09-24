@@ -1,0 +1,6 @@
+{
+  "name": "Delta Volunteers Trust",
+  "description": "Community & Volunteer Engagement App for Delta Volunteers Trust in Tamil Nadu. Disaster preparedness, water security, environmental protection, volunteer registration & issue reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
